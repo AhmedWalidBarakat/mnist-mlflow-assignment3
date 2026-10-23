@@ -1,0 +1,4 @@
+tensorflow
+tensorboard
+mlflow<3
+dagshub
